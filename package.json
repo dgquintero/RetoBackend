@@ -1,5 +1,5 @@
 {
-    "name": "project_name",
+    "name": "retobackend",
     "version": "1.0.0",
     "main": "dist/infrastructure/api/Server.js",
     "description": "Proyecto que contiene la plantilla para los microservicios de Coordinadora",
